@@ -8,3 +8,6 @@ Totally 3 models are used:
 
 The results showed that ensemble did not support our use case whereas randomforeset and LSTM were most effective. 
 I have tried to use matplotlib library to visualize the performance of each model.
+
+PS: Predicting the price of a stock does not only depend on the historical prices but a variety of factors including economy, environment conditions, internal and external security of a country, civil situation, etc. This is a simple project to demonstrate the usage of regression techniques and the importance of clean data.
+
