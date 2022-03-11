@@ -1,2 +1,2 @@
 # My Projects
-A repository to showcase my non academic projects carried out purely based on own interest
+A repository to showcase the project I have worked on.
